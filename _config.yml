@@ -23,7 +23,6 @@ email: t.olsen18@outlook.com
 description: "Thomas Olsen's student blog" 
 baseurl: "/tolsen25.github.io" # the name of the repository 
 url: "/tolsen25.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "https://media.istockphoto.com/id/1460872635/photo/wood-baseball-bat-and-balls.webp?b=1&s=612x612&w=0&k=20&c=71hgse0r-bTFzcygr99tAdpjXo79qTHJOZOHRlwBBDY="
 author: Thomas Olsen
 copyright: TO # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
