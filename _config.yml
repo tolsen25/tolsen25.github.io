@@ -18,28 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title 
-email: author_email@email.com 
-description: "Change the description so that it describes your blog" 
-baseurl: "/stat386-blog-theme" # the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+title: Thomsa Olsen Data Science 
+email: t.olsen18@outlook.com 
+description: "Thomas Olsen's student blog" 
+baseurl: "/tolsen25.github.io" # the name of the repository 
+url: "/tolsen25.github.io" #  change this to "https://<your-github-username>.github.io"
+image: "https://media.istockphoto.com/id/1460872635/photo/wood-baseball-bat-and-balls.webp?b=1&s=612x612&w=0&k=20&c=71hgse0r-bTFzcygr99tAdpjXo79qTHJOZOHRlwBBDY="
+author: Thomas Olsen
+copyright: TO # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
-        <a href="https://source.unsplash.com/random" target="_blank"> Unsplash</a>. 
+        <a href="https://cdn.pixabay.com/photo/2016/09/05/10/02/baseball-1646091_1280.jpg" target="_blank"> baseball_bat</a>. 
         The default image for the blog post is from
-        <a href="https://unsplash.com/photos/DWpR-BpKlw0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" target="_blank"
-        >Unsplash by Mohamed Elsayed</a>. Students in Stat 386 using this theme should replace both images 
+        <a href="https://cdn.pixabay.com/photo/2014/04/05/11/19/plate-315097_1280.jpg" target="_blank"
+        >staidu pic from pixabay</a>. Students in Stat 386 using this theme should replace both images 
         with their own.'
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: 
+github_username:  tolsen25
+linkedin_username: https://www.linkedin.com/in/thomas-olsen-1a0299254/
 dribbble_username: 
-facebook_username: 386student
+facebook_username: 
 flickr_username:
 instagram_username: 
 pinterest_username:
