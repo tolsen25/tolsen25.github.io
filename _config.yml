@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thomsa Olsen Data Science 
+title: Thomas Olsen Data Science 
 email: t.olsen18@outlook.com 
 description: "Thomas Olsen's student blog" 
 baseurl: "/tolsen25.github.io" # the name of the repository 
