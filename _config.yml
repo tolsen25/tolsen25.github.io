@@ -21,7 +21,7 @@
 title: Thomas Olsen Data Science 
 email: t.olsen18@outlook.com 
 description: "Thomas Olsen's student blog" 
-baseurl: "/tolsen25.github.io" # the name of the repository 
+baseurl: "" # the name of the repository 
 url: "/tolsen25.github.io" #  change this to "https://<your-github-username>.github.io"
 author: Thomas Olsen
 copyright: TO # Your initials or what you want the copyright to be.  Leave empty for no copyright
