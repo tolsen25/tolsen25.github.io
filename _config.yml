@@ -37,7 +37,7 @@ twitter_username:
 github_username:  tolsen25
 linkedin_username: https://www.linkedin.com/in/thomas-olsen-1a0299254/
 youtube_username: 
-googleplus_username: 386student
+googleplus_username: 
 
 plugins:
   - jekyll-feed
