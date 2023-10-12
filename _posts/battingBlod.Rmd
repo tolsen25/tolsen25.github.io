@@ -1,8 +1,6 @@
 ---
 title: "Batting"
 author: "ThomasOlsen"
-date: "2023-10-12"
-output: html_document
 ---
 # Introduction
 This guide will demonstrate how to download and explore batting data using an R-Shiny App.
