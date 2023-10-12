@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Pages</title>
+</head>
+<body>
+  <p>Click the link below to go to ESPN:</p>
+  <a href="#" id="redirectLink">Visit ESPN</a>
+
+  <script>
+    // JavaScript to redirect when the link is clicked
+    document.getElementById("redirectLink").addEventListener("click", function(event) {
+      event.preventDefault(); // Prevent the default link behavior
+      window.location.href = "https://www.espn.com"; // Redirect to ESPN
+    });
+  </script>
+</body>
+</html>
