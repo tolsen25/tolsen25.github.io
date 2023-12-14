@@ -26,6 +26,7 @@ url: "/tolsen25.github.io" #  change this to "https://<your-github-username>.git
 author: Thomas Olsen
 copyright: TO # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description:
+image: /assets/images/baseballCards.jpg
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
