@@ -27,6 +27,7 @@ author: Thomas Olsen
 copyright: TO # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description:
 image: /assets/images/ball-1198835_640.jpg
+remote_theme: daviddarnes/alembic@main
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
@@ -38,4 +39,5 @@ googleplus_username:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
