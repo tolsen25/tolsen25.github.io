@@ -38,6 +38,7 @@ youtube_username:
 googleplus_username: 
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
 
