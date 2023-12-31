@@ -1,6 +1,6 @@
 ---
 title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/baseball-582887_1280.jpg"
 feature_text: |
   ## Thomas Olsen's Data Science Portfolio and Blog
 ---
