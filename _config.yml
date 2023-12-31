@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic@main
+remote_theme: tolsen25/alembic@main
 
 # File excludes
 exclude:
