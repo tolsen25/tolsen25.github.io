@@ -10,7 +10,7 @@ feature_text: |
 ***
 
 ### Education
-
+Brigham Young University '24
 ***
 ### Work Experience
 ***
