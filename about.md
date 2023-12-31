@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: About Me
 ---
 
-Thomas Olsen's Data Science Portfolio and Blog
+I am student graduating from Brigham Young University in April 2024.  Contact me at t.olsen18@outlook.com
