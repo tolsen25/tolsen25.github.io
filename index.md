@@ -7,3 +7,4 @@ feature_text: |
 ## Portfolio
 ***
 
+### Education
