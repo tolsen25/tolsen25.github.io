@@ -1,4 +1,4 @@
-@import "alembic"
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
@@ -36,4 +36,5 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
+@import "alembic"
 // TIP: Load custom fonts in _config.yaml
