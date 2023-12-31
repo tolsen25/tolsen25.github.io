@@ -10,3 +10,9 @@ feature_text: |
 ***
 
 ### Education
+
+***
+### Work Experience
+***
+### Projects
+***
