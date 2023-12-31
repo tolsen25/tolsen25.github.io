@@ -54,7 +54,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "/assets/images/field.jpg"
+    feature_image: "/assets/images/fieldOpaque.jpg"
 
 # Collection settings
 defaults:
