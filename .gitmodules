@@ -4,3 +4,6 @@
 [submodule "_includes"]
 	path = _includes
 	url = git@github.com:tolsen25/alembic.git
+[submodule "_layouts"]
+	path = _layouts
+	url = git@github.com:tolsen25/alembic.git
