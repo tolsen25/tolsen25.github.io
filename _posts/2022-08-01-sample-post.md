@@ -5,7 +5,7 @@ author: Shannon Tass
 description: A sample post with instructions and tips on how to create a new blog post.   
 image: "/assets/images/image5.jpg"
 ---
-
+##
 ## Steps for creating a new post.  
 
 * Create a new file in the `_posts` folder called `YYYY-MM-DD-post-name.md`, where YYYY is the year (2023), MM numeric month (01-12), and DD is the numeric day of the month (01-31).  The `post-name` is a short name for the new post with `-` between words.  **You must use this name convention for all new posts.**  
