@@ -13,9 +13,13 @@ feature_text: |
 Brigham Young University '24
 
 ***
+
 ### Work Experience
 BYU Center for Language Studies
+
 ***
+
 ### Projects
 Kaggle Machine Learning Project
+
 ***
