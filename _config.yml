@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Thomas Olsen'
+description: 'Thomas Olsen's Portfolio and Blog'
 permalink: pretty
 logo: "/assets/images/profileSquare.jpg"
 
