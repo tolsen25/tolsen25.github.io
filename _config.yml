@@ -50,7 +50,7 @@ navigation_footer:
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
