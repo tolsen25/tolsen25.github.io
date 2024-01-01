@@ -51,7 +51,7 @@ collections:
   posts:
     title: Posts
     output: false
-    description: "My thoughts and ideas"
+    description: "My Work"
     feature_text: |
       Blog
     feature_image: "/assets/images/fieldOpaque.png"
