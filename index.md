@@ -21,5 +21,6 @@ BYU Center for Language Studies
 
 ### Projects
 Kaggle Machine Learning Project
+Statistical Analysis Project
 
 ***
