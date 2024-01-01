@@ -53,7 +53,7 @@ collections:
     output: false
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      Blog
     feature_image: "/assets/images/fieldOpaque.png"
 
 # Collection settings
