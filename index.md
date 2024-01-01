@@ -17,4 +17,5 @@ Brigham Young University '24
 BYU Center for Language Studies
 ***
 ### Projects
+Kaggle Machine Learning Project
 ***
