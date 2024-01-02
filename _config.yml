@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://tolsen25.github.io/'
 baseurl: ''
-title: 'My website'
+title: 'Thomas Olsen's Portfolio'
 description: 'This is my new website'
 permalink: pretty
 logo: "/assets/images/profileSquare.jpg"
