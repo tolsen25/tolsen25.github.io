@@ -45,7 +45,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
   - Deployed Naïve Bayes, K-Nearest Neighbors, Support Vector Machines, and Penalized Regression (LASSO, Ridge & Elastic Net) in R “tidymodels” to predict employee access
   - Achieved a .886 (area under the curve) score using “tidymodels” random forests and cross-validation
 
-*Bike Share Kaggle Competition*  September 2023
+*Bike Share Kaggle Competition* -- September 2023
   - Predicted Bike-Share demand using BART, K-Nearest Neighbors, Random Forests, Poisson Regression, and Penalized Regression (LASSO, Ridge & Elastic Net) in R “tidymodels”
   - Achieved .402 Kaggle score (RMSLE) through BART
   
