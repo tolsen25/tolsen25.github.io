@@ -38,18 +38,22 @@ Bachelor of Science Statistics, Emphasis in Data Science
 ***
 
 ### Projects
-*Kobe Shot Selection Kaggle Competition* -- December 2023            
+*Kobe Shot Selection Kaggle Competition* -- December 2023  
+
     - Scored .60198 using R tidymodels Random Forests, target encoding, normalizing, and other feature engineering steps
   
-*Amazon Employee Kaggle Competition* -- October 2023            
+*Amazon Employee Kaggle Competition* -- October 2023  
+
     - Deployed Naïve Bayes, K-Nearest Neighbors, Support Vector Machines, and Penalized Regression (LASSO, Ridge & Elastic Net) in R “tidymodels” to predict employee access
     - Achieved a .886 (area under the curve) score using “tidymodels” random forests and cross-validation
 
 *Bike Share Kaggle Competition* -- September 2023
+
     - Predicted Bike-Share demand using BART, K-Nearest Neighbors, Random Forests, Poisson Regression, and Penalized Regression (LASSO, Ridge & Elastic Net) in R “tidymodels”
     - Achieved .402 Kaggle score (RMSLE) through BART
   
 *Bayesian Regression Analysis of Plate Discipline Data* -- March 2023
+    
     - Coordinated as a group the gathering, cleaning, and analysis of plate discipline data using the beta-binomial distribution 
     - Concluded that there was a slight decrease in plate discipline in the second half of the season
 
