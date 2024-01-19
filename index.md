@@ -7,9 +7,7 @@ feature_text: |
   </div>
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
-<a href="https://www.linkedin.com/in/thomas-olsen-1a0299254" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" />
-</a>
+[![GitHub Logo](https://raw.githubusercontent.com/yourusername/your-repo/master/path/to/your/logo.png)](https://github.com/YourGitHubUsername)
 {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/thomas-olsen-1a0299254" color="#0366d6" %} 
 ***
 
@@ -21,11 +19,9 @@ Bachelor of Science Statistics, Emphasis in Data Science
 
 ***
 ### Skills
-**Proficient** R Programming & Data Wrangling
-
-**Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau
-
-**Beginner** Git Version Control, Streamlit, Datawrapper, Excel, HTMl, CSS
+**Proficient** R Programming & Data Wrangling  
+**Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau  
+**Beginner** Git Version Control, Streamlit, Datawrapper, Excel, HTMl, CSS  
 
 ***
 
