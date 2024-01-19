@@ -7,8 +7,8 @@ feature_text: |
   </div>
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
-[![GitHub Logo](https://raw.githubusercontent.com/yourusername/your-repo/master/path/to/your/logo.png)](https://github.com/YourGitHubUsername)
-{% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/thomas-olsen-1a0299254" color="#0366d6" %} 
+![GitHub Logo](https://github.com/tolsen25)
+
 ***
 
 ### Education
