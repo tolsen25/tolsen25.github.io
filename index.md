@@ -7,7 +7,9 @@ feature_text: |
   </div>
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
-
+<a href="https://www.linkedin.com/in/thomas-olsen-1a0299254" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" />
+</a>
 {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/thomas-olsen-1a0299254" color="#0366d6" %} 
 ***
 
