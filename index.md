@@ -7,7 +7,7 @@ feature_text: |
   </div>
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
-![GitHub Logo](https://github.com/tolsen25)
+
 
 ***
 
