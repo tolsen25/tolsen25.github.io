@@ -12,8 +12,8 @@ feature_text: |
 ### Education
 **Brigham Young University** Class of 2024
 Bachelor of Science Statistics, Emphasis in Data Science
- - GPA 3.84
- - Relevant Coursework: Predictive Analytics, Probability and Inference 2, Ecosystems of Data Science, Data Science Process, Machine Learning
+ - GPA 3.85
+ - Relevant Coursework: Predictive Analytics, Probability and Inference 2, Ecosystems of Data Science, Data Science Process, Machine Learning, Data Visualization
 
 ***
 ### Skills
