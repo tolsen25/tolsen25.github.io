@@ -8,7 +8,7 @@ feature_text: |
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
 
-***
+***  
 
 ### Education
 **Brigham Young University** Class of 2024
@@ -16,13 +16,13 @@ Bachelor of Science Statistics, Emphasis in Data Science
  - GPA 3.85
  - Relevant Coursework: Predictive Analytics, Probability and Inference 2, Ecosystems of Data Science, Data Science Process, Machine Learning, Data Visualization
 
-***
+***    
 ### Skills
 **Proficient** R Programming & Data Wrangling  
 **Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau  
 **Beginner** Git Version Control, Streamlit, Datawrapper, Excel, HTMl, CSS  
 
-***
+***  
 ### Work Experience
 **BYU Center for Language Studies**
 *Computer Programmer*
@@ -33,7 +33,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Downloaded and cleaned data from the Qualtrics API for researchers to analyze using ANOVA and machine learning
 - Analyzed and visualized user data from a language learning program using “tidyverse” packages 
 
-***
+***  
 ### Machine Learning Projects
 *Kobe Shot Selection Kaggle Competition* -- December 2023  
 - Scored .60198 using R tidymodels Random Forests, target encoding, normalizing, and other feature engineering steps  
@@ -50,4 +50,4 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Concluded that there was a slight decrease in plate discipline in the second half of the season
 ### Data Visualization Projects
 
-***
+***  
