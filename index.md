@@ -15,11 +15,13 @@ feature_text: |
 Bachelor of Science Statistics, Emphasis in Data Science
  - GPA 3.85
  - Relevant Coursework: Predictive Analytics, Probability and Inference 2, Ecosystems of Data Science, Data Science Process, Machine Learning, Data Visualization
+
 ***
 ### Skills
 **Proficient** R Programming & Data Wrangling  
 **Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau  
 **Beginner** Git Version Control, Streamlit, Datawrapper, Excel, HTMl, CSS  
+
 ***
 ### Work Experience
 **BYU Center for Language Studies**
@@ -30,6 +32,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Generated an R-markdown report for 10 teachers to view their students’ OPIc and self-assess data
 - Downloaded and cleaned data from the Qualtrics API for researchers to analyze using ANOVA and machine learning
 - Analyzed and visualized user data from a language learning program using “tidyverse” packages 
+
 ***
 ### Machine Learning Projects
 *Kobe Shot Selection Kaggle Competition* -- December 2023  
@@ -46,4 +49,5 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Coordinated as a group the gathering, cleaning, and analysis of plate discipline data using the beta-binomial distribution 
 - Concluded that there was a slight decrease in plate discipline in the second half of the season
 ### Data Visualization Projects
+
 ***
