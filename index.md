@@ -6,6 +6,8 @@ feature_text: |
     <h1 style="color: #333; margin: 0;">Thomas Olsen's Data Science Portfolio and Blog</h1>
   </div>
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
+
 {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/thomas-olsen-1a0299254" color="#0366d6" %} 
 ***
 
