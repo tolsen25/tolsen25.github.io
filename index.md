@@ -9,7 +9,6 @@ feature_text: |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thomas-olsen-1a0299254)
 
 ***  
-
 ### Education
 **Brigham Young University** Class of 2024
 Bachelor of Science Statistics, Emphasis in Data Science
