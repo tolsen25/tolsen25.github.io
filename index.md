@@ -51,4 +51,5 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Created Tableau story with interactive dashboard exploring the history prices of different baseball card varieties.
 - Designed a Tableau dashboard and story explaining the California drought levels  
 - Visualized acerage and burn area of 2018 San Pasqual by using Datawrapper map and geo-json data
+
 ***  
