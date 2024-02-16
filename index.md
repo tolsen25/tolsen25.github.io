@@ -19,7 +19,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 ### Skills
 **Proficient** R Programming & Data Wrangling  
 **Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau  
-**Beginner** Git Version Control, Streamlit, Datawrapper, Excel, HTMl, CSS  
+**Beginner** Scikit-learn, Git Version Control, Streamlit, Datawrapper, Excel, HTML, CSS  
 
 ***  
 ### Work Experience
@@ -48,5 +48,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 - Coordinated as a group the gathering, cleaning, and analysis of plate discipline data using the beta-binomial distribution 
 - Concluded that there was a slight decrease in plate discipline in the second half of the season
 ### Data Visualization Projects
-
+- Created Tableau story with interactive dashboard exploring the history prices of different baseball card varieties.
+- Designed a Tableau dashboard and story explaining the California drought levels  
+- Visualized acerage and burn area of 2018 San Pasqual by using Datawrapper map and geo-json data
 ***  
