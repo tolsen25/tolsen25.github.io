@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-I am student graduating from Brigham Young University in April 2024.  Contact me at t.olsen18@outlook.com. 
+I am a Data Scientist working at Revere Health in Provo.  I graduated from BYU in April of 2024.  Contact me at t.olsen18@outlook.com. 
 
 I served a full time mission for the Church of Jesus Christ of Latter Day Saints from 2019-2021 in Santiago Chile, and Salt Lake City Utah.  I enjoyed learning Spanish and connecting with people from various cultures and backgrounds.
 
