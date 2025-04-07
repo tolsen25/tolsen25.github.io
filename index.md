@@ -17,12 +17,20 @@ Bachelor of Science Statistics, Emphasis in Data Science
 
 ***    
 ### Skills
-**Proficient** R Programming & Data Wrangling  
-**Moderate** R Tidymodels, Python, C++, MySQL, Linux, R-Shiny, Tableau  
-**Beginner** Scikit-learn, Git Version Control, Streamlit, Datawrapper, Excel, HTML, CSS  
+**Proficient** PowerBI, R Machine Learning (tidymodels), R Programming & Data Wrangling, Python  
+**Moderate**  SQL, Linux, R-Shiny, Tableau, Scikit-learn  
+**Beginner**  Git Version Control, Streamlit, Datawrapper, JavaScript, Java  
 
 ***  
 ### Work Experience
+**Revere Health**
+*Data Scientist*
+- Built and designed HCC Dashboard by integrating data from various SQL tables – used clinic wide
+-	Analyzed claims data to identify and quantify possible RAF, ASC, and HCC opportunities 
+-	Created graphs and analytics for use in VBC and board meetings by CMO of Value Based Care
+-	Integrated EHR, claims, and internal data to develop machine learning clustering algorithm for high-cost patients
+-	Designed and built Cost and Quality Dashboards to monitor performance and compare with benchmarks	
+
 **BYU Center for Language Studies**
 *Computer Programmer*
 - Co-engineered a Qualtrics-to-AWS data pipeline that sends raw survey data to a machine learning algorithm and returns a final score in time to display at the end of the survey
