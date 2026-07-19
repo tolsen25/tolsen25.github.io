@@ -25,6 +25,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 ### Work Experience
 **Revere Health**
 *Data Scientist*
+
 -Translated doctor’s ideas and feedback into 100+ scenarios for a provider VBC bonus model by leveraging R Programming and Claude AI 
 - Co-developed the chosen VBC bonus model and its associated documentation and reports
 -	Led and owned end-to-end PowerBI dashboard to display multiple key metrics across numerous servers and databases.
