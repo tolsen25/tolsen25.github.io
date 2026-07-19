@@ -24,7 +24,7 @@ Bachelor of Science Statistics, Emphasis in Data Science
 ***  
 ### Work Experience
 **Revere Health**
-*Data Scientist*
+*Data Scientist/Senior Value Based Care Analyst April 2024 - Current*
 
 - Translated doctor’s ideas and feedback into 100+ scenarios for a provider VBC bonus model by leveraging R Programming and Claude AI 
 - Co-developed the chosen VBC bonus model and its associated documentation and reports
