@@ -25,6 +25,14 @@ Bachelor of Science Statistics, Emphasis in Data Science
 ### Work Experience
 **Revere Health**
 *Data Scientist*
+-Translated doctor’s ideas and feedback into 100+ scenarios for a provider VBC bonus model by leveraging R Programming and Claude AI 
+- Co-developed the chosen VBC bonus model and its associated documentation and reports
+-	Led and owned end-to-end PowerBI dashboard to display multiple key metrics across numerous servers and databases.
+-	Analyzed high-cost patient claim data to identify trends and support VBC initiatives, enabling leadership to make data driven VBC decisions
+-	Built executive PowerBI financial dashboard and presented its design to administrators.	
+-	Created ad-hoc reports from SQL queries by integrating data from multiple sources to produce high-quality, validated analytics trusted by executives and operational leaders.
+-	Improved reporting efficiency and data quality by updating SQL queries, normalizing complex healthcare datasets, and implementing rigorous data validation practices.
+
 - Built and designed HCC Dashboard by integrating data from various SQL tables – used clinic wide
 -	Analyzed claims data to identify and quantify possible RAF, ASC, and HCC opportunities 
 -	Created graphs and analytics for use in VBC and board meetings by CMO of Value Based Care
